@@ -1,0 +1,42 @@
+Build a complete, production-ready Single page (one-page scrolling) Portfolio / Personal from scratch.
+
+TECHNOLOGY:
+Use Pure HTML, CSS, and vanilla JavaScript. Write clean, well-structured, production-quality code.
+
+DESIGN DIRECTION:
+Style: Neomorphism with soft shadows
+Colors: Nordic slate palette with ice gray (#F0F5F9) background, cool steel (#C9D6DF), slate (#52616B), and near-black (#1E2022)
+Tone & Voice: Minimal and direct
+
+LAYOUT STRUCTURE:
+Navigation: Hamburger menu only (hidden nav)
+Hero Section: Gradient or animated background hero
+Content Layout: Timeline / scroll-based storytelling layout
+Footer: Fat footer with newsletter signup, links, map, and social icons
+Section Spacing: Spacious section spacing with generous whitespace and breathing room
+Scroll Animation: Fade-in animations on scroll for sections and elements
+
+INTERACTIVE FEATURES:
+Include the following:
+- Responsive hamburger mobile menu
+- Dark / Light mode toggle
+- Smooth scroll navigation
+- Scroll-triggered fade-in animations
+- Contact form with validation
+- Back to top button
+- Parallax scrolling effect
+- Image lightbox gallery
+- Newsletter subscription form
+- Social media icon links
+
+TECHNICAL REQUIREMENTS:
+- Optimize for SEO with proper meta tags
+- Include Google Fonts
+
+IMPORTANT GUIDELINES:
+- Make the website fully responsive across desktop, tablet, and mobile
+- Use smooth transitions and micro-interactions for a polished feel
+- Use placeholder images (via picsum.photos or placehold.co) where needed
+- Write realistic placeholder text instead of generic lorem ipsum
+- Ensure consistent spacing, alignment, and visual hierarchy throughout
+- Provide the complete, ready-to-use code
