@@ -55,6 +55,17 @@ These are upstream open-source projects I use as references and starting points 
 
 [ t3-oss/create-t3-app#2260 ](https://github.com/t3-oss/create-t3-app/pull/2260) — fixed the broken Stripe tutorial link in the FAQ (issue #1993) across EN/PT/RU/UK docs. Currently awaiting code-owner review.
 
+## ✍️ Latest writing
+
+Practical notes on AI agents, RAG, and full-stack building — published on Substack:
+
+- [I Fixed a Broken Link in Create T3 App — Here's What Open Source Actually Rewards](https://rumesh.substack.com/p/i-fixed-a-broken-link-in-create-t3) — a four-file PR, a changeset bot, and what small real contributions actually reward.
+- [I Gave My AI Agent a Memory With mem0 — Here’s What Actually Changed](https://rumesh.substack.com/p/i-gave-my-ai-agent-a-memory-with) — what persistent memory changed in a real agent workflow.
+- [A Minimal RAG Setup That Actually Works (No Vector Database)](https://rumesh.substack.com/p/a-minimal-rag-setup-that-actually) — a simple retrieval setup you can run locally.
+- [The AI Product Stack I Actually Use as a Solo Developer in 2026](https://rumesh.substack.com/p/the-ai-product-stack-i-actually-use) — boring tools that keep shipping simple.
+
+[Subscribe on Substack](https://rumesh.substack.com/subscribe) if you want these notes in your inbox.
+
 ## 📫 Get in Touch
 
 Have a project, idea, or question? I'd love to hear about it.
